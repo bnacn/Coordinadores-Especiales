@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicios de Continuidad</title>
+</head>
+<body>
+
+    <h1>Ejercicios de Crisis y Continuidad</h1>
+
+    <p>Seleccioná una versión:</p>
+
+    <ul>
+        <li><a href="./CORP/">Versión institucional</a></li>
+        <li><a href="./IND/">Versión individual</a></li>
+    </ul>
+
+</body>
+</html>
